@@ -32,7 +32,7 @@ function aVeryBigSum(ar,arCount) {
     }
     return sum;
 }
-
+//
 function main() {
     const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
 
