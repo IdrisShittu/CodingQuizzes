@@ -6,3 +6,5 @@ function concat(...args) {
 	}
 	return  arr
 }
+
+//concat inputs

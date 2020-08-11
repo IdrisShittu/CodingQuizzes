@@ -6,3 +6,4 @@ function changeEnough(change, amountDue) {
   return (quarter+dime+nickle+penny >= amountDue)
   
 }
+//takes an array retuns boolean
