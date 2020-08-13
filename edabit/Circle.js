@@ -5,3 +5,4 @@ class Circle {
   getArea(){return this.radius*this.radius*Math.PI};
   getPerimeter(){return 2*Math.PI*this.radius}
 }
+//circle constructor
