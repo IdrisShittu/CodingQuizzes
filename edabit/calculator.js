@@ -12,3 +12,4 @@ function calculator(num1, operator, num2) {
 		return "Can't divide by 0!";
 	}
 }
+//performs simple arithmetic operation

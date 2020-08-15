@@ -11,3 +11,4 @@ function isSpecialArray(arr) {
 	
 	return true
 }
+//check if array is special
