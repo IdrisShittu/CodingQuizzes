@@ -3,3 +3,4 @@ function validateEmail(str) {
     return re.test(String(str).toLowerCase());
 
 }
+//using regex
