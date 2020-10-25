@@ -3,4 +3,4 @@ const positiveSum = (chars) => {
     .filter(number => number > 0)    
     .reduce((prev,current) => parseInt(prev) + parseInt(current),0)
 };
-//sum of positive sum.
+//sum of positive num.
