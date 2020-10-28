@@ -1,0 +1,1 @@
+const REGEXP = /<div>[\w\W]*?/g;
