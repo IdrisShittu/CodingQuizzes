@@ -1,3 +1,6 @@
 function reversedBinaryInteger(num) {
-  return Number.parseInt(num.toString(2).split('').reverse().join(''), 2);
+	let stringNum = num.toString(2).split("").reverse();
+	let newNum = stringNum.join("");
+	return parseInt(newNum, 2);
+	
 }
